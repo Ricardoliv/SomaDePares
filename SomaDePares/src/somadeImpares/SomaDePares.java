@@ -8,7 +8,7 @@ public class SomaDePares
      {
           Scanner valor = new Scanner(System.in);
       
-          System.out.println("Digite de o n° inicial e o n° final para a soma dos ímpares");
+          System.out.println("Digite de o n° inicial e o n° final para a soma dos pares");
        
           int soma =0;
           System.out.println("N° inicial");
@@ -25,7 +25,7 @@ public class SomaDePares
 
           }
         
-          System.out.println( " soma dos ímpares: "+soma);
+          System.out.println( " soma dos pares: "+soma);
         
      }
 }
